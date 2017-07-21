@@ -17,6 +17,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Display;
 import android.view.View;
 
+
 public class MainActivity extends AppCompatActivity {
     //Member variables
     private float xPos, xAccel, xVel = 0.0f;
